@@ -11,7 +11,6 @@
 	/*
 	 * Use with your own api key
 	 */
-	
 	$api_key = 'YOUR_API_KEY';
 ?>
 <div class="header">
