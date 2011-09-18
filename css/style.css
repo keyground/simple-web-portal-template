@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+body {margin:0; padding:0; font-family:Tahoma; font-size:12px; line-height: 18px;  color:#333; background-color:#E9E9E9}
+.header{height: 60px; border-bottom:1px solid #E1E1E1; background-color:#FFF }
+.logo {font-size:24px; font-weight:bold; line-height:60px; valign:middle;}
+
+.content{width:980px; margin:auto;}
+.middle{width:680px; margin-top:20px; margin-right:20px; float:left; background-color:#FFF; margin-bottom:20px;}
+.right{width:280px; float:left; background-color:#FFF;  margin-top:20px;}
+.video_box{width:203px; float:left; margin-left:18px; margin-bottom:10px;}
+
+.middle_title{width:660px; border-bottom:1px solid #E1E1E1; margin-top:10px; padding-bottom:10px; margin-bottom:10px; font-size:18px; margin-left:10px;}
+.thumb{border:4px solid #E1E1E1;}
+.thumb img{width:195px; height:110px;}
+
+.right_title{width:260px; border-bottom:1px solid #E1E1E1; margin-top:10px; padding-bottom:10px; margin-bottom:10px; font-size:18px; margin-left:10px;}
+
+.footer{width:980px; height:50px; margin:auto;}
+
+
+
+/***************  video.php  ****************/
+
+.player{width:640px; margin:auto;}
+.comment{width:640px; margin:auto; margin-top:20px; margin-bottom:20px;}
+.comment_label{ float:left;}
+.comment_input{width:200px; float:left;}
+.comment_msg{width:640px; margin-top:10px;}
+.comment_msg textarea{width:640px; height:60px; margin-top:10px;}
