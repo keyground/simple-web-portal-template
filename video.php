@@ -7,7 +7,9 @@
 </head>
 <body>
 <?php 
+
 	require 'libs/functions.php';
+
 	/*
 	 * Use with your own api key
 	 */
