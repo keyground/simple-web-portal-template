@@ -8,7 +8,10 @@
 <body>
 <?php 
 	require 'libs/functions.php';
-	$api_key = '4f6b5b32c1c4771df3af44c346f524a5babdca4e';
+	/*
+	 * Use with your own api key
+	 */
+	$api_key = 'YOUR_API_KEY';
 	
 	if($_GET['ch']!=''){
 			$params = array(
